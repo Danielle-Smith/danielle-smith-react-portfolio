@@ -1,1 +1,1 @@
-# Danielle Smith React Portfolio Template
+# React Portfolio Template
